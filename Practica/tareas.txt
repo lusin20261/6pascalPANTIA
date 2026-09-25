@@ -1,0 +1,5 @@
+1.lavar ropa
+2:hacer mi tarea
+3:lavar los platos
+4:tender la cama
+5:barrer lam casa
